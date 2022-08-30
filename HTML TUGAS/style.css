@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://presspack.rte.ie/wp-content/blogs.dir/2/files/2017/04/Peaky-Blinders-Season-2_High-Res_EP201_IMG03.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1,h2,h3,h4,p,a,ol{
+    color: white;
+}
+a:hover{
+    color: yellow;
+}
